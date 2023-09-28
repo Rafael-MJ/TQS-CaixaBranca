@@ -23,13 +23,13 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 <b>PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:<b/>
   <ol>
    <li>
-       Blocos 'catch' estão vazios
+       Blocos de tratamento de exceções 'catch' estão completamente vazios
     </li>
     <li>
-       Conexão com o banco não é encerrada (.close())
+       Nenhuma conexão com o banco não é encerrada (.close())
     </li>
     <li>
-      Utilização de métodos 'deprecated';
+      Utilização de métodos 'deprecated'
     </li>
   </ol>
 
