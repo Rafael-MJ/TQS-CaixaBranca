@@ -5,7 +5,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 ## Relatório
 
-COMPARAÇÃO ENCORRETA DE TIPOS DE DADOS:
+COMPARAÇÃO INCORRETA DE TIPOS DE DADOS:
 • 
 
 TÉRMINO DE LAÇO INADEQUADO:
@@ -21,7 +21,11 @@ ESTRUTURAS NÃO UTILIZADAS OU DUPLICADAS:
 • 
 
 ERROS, DEFEITOS E FALHAS NÃO TRATADOS:
-• 
+  <ol>
+    <li>
+      Utilização de métodos 'deprecated'
+    </li>
+  </ol>
 
 FALTA DE MENSAGEM DE RETORNO:
 • 
