@@ -5,7 +5,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 ## Relatório
 
-PROBLEMAS VISUAIS:
+###PROBLEMAS VISUAIS:
 <ol>
     <li>
        Chaves com espaçamento inadequado
@@ -20,7 +20,7 @@ PROBLEMAS VISUAIS:
   
 <br>
 
-PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:
+###PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:
   <ol>
    <li>
        Blocos 'catch' estão vazios
@@ -35,7 +35,7 @@ PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:
 
 <br>
 
-PROBLEMAS RELACIONADOS A FLEXIBILIDADE/MANTENABILIDADE:
+###PROBLEMAS RELACIONADOS A FLEXIBILIDADE/MANTENABILIDADE:
     <ol>
         <li>
             Variáveis com nomes genéricos
