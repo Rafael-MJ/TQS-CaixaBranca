@@ -18,12 +18,16 @@ CÁLCULOS MAL ELABORADOS:
 • 
 
 ESTRUTURAS NÃO UTILIZADAS OU DUPLICADAS:
-• 
+<ol>
+    <li>
+       Blocos 'catch' estão vazios;
+    </li>
+  </ol>
 
 ERROS, DEFEITOS E FALHAS NÃO TRATADOS:
   <ol>
     <li>
-      Utilização de métodos 'deprecated'
+      Utilização de métodos 'deprecated';
     </li>
   </ol>
 
