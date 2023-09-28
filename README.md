@@ -5,45 +5,49 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 ## Relatório
 
-COMPARAÇÃO INCORRETA DE TIPOS DE DADOS:
-• 
-
-TÉRMINO DE LAÇO INADEQUADO:
-• 
-
-ELABORAÇÃO DE ESTRUTURAS LÓGICAS INCORRETAS:
-• 
-
-CÁLCULOS MAL ELABORADOS:
-• 
-
-ESTRUTURAS NÃO UTILIZADAS OU DUPLICADAS:
+PROBLEMAS VISUAIS:
 <ol>
     <li>
-       Blocos 'catch' estão vazios;
+       Chaves com espaçamento inadequado
+    </li>
+    <li>
+        Código sem padrão de formatação
+    </li>
+    <li>
+        Código confuso e mal estruturado
     </li>
   </ol>
 
-ERROS, DEFEITOS E FALHAS NÃO TRATADOS:
+PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:
   <ol>
+   <li>
+       Blocos 'catch' estão vazios
+    </li>
+    <li>
+       Conexão com o banco não é encerrada (.close())
+    </li>
     <li>
       Utilização de métodos 'deprecated';
     </li>
   </ol>
 
-FALTA DE MENSAGEM DE RETORNO:
-• 
-
-DESCRIÇÃO DE PROBLEMA INCOMPREENSÍVEL:
-• 
-
-DESCRIÇÃO DE PROBLEMA QUE NÃO FORNECE INFORMAÇÕES SUFICIENTES PARA QUE O USUÁRIO ENTENDA O QUE DEVE SER FEITO:
-• 
-
-INFORMAÇÃO DE PROBLEMA DIVERGENTE DO QUE REALMENTE ACONTECEU:
-• 
+PROBLEMAS RELACIONADOS A FLEXIBILIDADE/MANTENABILIDADE:
+    <ol>
+        <li>
+            Variáveis com nomes genéricos
+        </li>
+        <li>
+            Falta de organização na declaração métodos e variáveis (estão soltos no código, sem padrão estrutural)
+        </li>
+        <li>
+        Comentários sem necessidade
+        </li>
+        <li>
+            Comentários mal elaborados
+        </li>
+    </ol>
 
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
 
-## Última atualização 27/09/23
+## Última atualização 28/09/23
