@@ -8,13 +8,13 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 <b>PROBLEMAS VISUAIS:<b/>
 <ol>
     <li>
-       Chaves com espaçamento inadequado
+       Chaves com espaçamento inadequado;
     </li>
     <li>
-        Código sem padrão de formatação
+        Código sem padrão de formatação;
     </li>
     <li>
-        Código confuso e mal estruturado, com ausência de elementos simples (como espaçamentos) que auxiliam no compreendimento do mesmo
+        Código confuso e mal estruturado, com ausência de elementos simples (como espaçamentos) que auxiliam no compreendimento do mesmo;
     </li>
   </ol>
   
@@ -23,13 +23,13 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 <b>PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:<b/>
   <ol>
    <li>
-       Blocos de tratamento de exceções 'catch' estão completamente vazios
+       Blocos de tratamento de exceções 'catch' estão completamente vazios;
     </li>
     <li>
-       Nenhuma conexão com o banco não é encerrada (.close())
+       Nenhuma conexão com o banco não é encerrada (.close());
     </li>
     <li>
-      Utilização de métodos 'deprecated'
+      Utilização de métodos descontinuados;
     </li>
   </ol>
 
@@ -38,16 +38,16 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 <b>PROBLEMAS RELACIONADOS A FLEXIBILIDADE/MANTENABILIDADE:<b/>
     <ol>
         <li>
-            Variáveis com nomes genéricos
+            Variáveis com nomes genéricos;
         </li>
         <li>
-            Falta de organização na declaração métodos e variáveis (estão soltos no código, sem padrão estrutural)
+            Falta de organização na declaração métodos e variáveis (estão soltos no código, sem padrão estrutural);
         </li>
         <li>
-        Comentários sem necessidade
+        Comentários sem necessidade;
         </li>
         <li>
-            Comentários mal elaborados
+            Comentários mal elaborados;
         </li>
     </ol>
 
