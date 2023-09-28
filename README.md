@@ -17,6 +17,8 @@ PROBLEMAS VISUAIS:
         Código confuso e mal estruturado
     </li>
   </ol>
+  
+<br>
 
 PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:
   <ol>
@@ -30,6 +32,8 @@ PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:
       Utilização de métodos 'deprecated';
     </li>
   </ol>
+
+<br>
 
 PROBLEMAS RELACIONADOS A FLEXIBILIDADE/MANTENABILIDADE:
     <ol>
