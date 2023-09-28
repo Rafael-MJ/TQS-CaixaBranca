@@ -1,7 +1,7 @@
 # Exercício individual - Teste de Caixa Branca (ETAPA 1)
 
 ## Descrição
-O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, realizando o teste de caixa branca e indicando os erros.
+O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, realizando o teste de caixa branca e indicando problemas.
 
 ## Relatório
 
