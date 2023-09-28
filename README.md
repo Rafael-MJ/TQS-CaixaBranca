@@ -14,7 +14,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
         Código sem padrão de formatação
     </li>
     <li>
-        Código confuso e mal estruturado
+        Código confuso e mal estruturado, com ausência de elementos simples (como espaçamentos) que auxiliam no compreendimento do mesmo
     </li>
   </ol>
   
