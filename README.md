@@ -5,7 +5,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 ## Relatório
 
-###PROBLEMAS VISUAIS:
+<b>PROBLEMAS VISUAIS:<b/>
 <ol>
     <li>
        Chaves com espaçamento inadequado
@@ -20,7 +20,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
   
 <br>
 
-###PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:
+<b>PROBLEMAS RELACIONADOS A PERFORMANCE/DESEMPENHO E FUNCIONAMENTO:<b/>
   <ol>
    <li>
        Blocos 'catch' estão vazios
@@ -35,7 +35,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 <br>
 
-###PROBLEMAS RELACIONADOS A FLEXIBILIDADE/MANTENABILIDADE:
+<b>PROBLEMAS RELACIONADOS A FLEXIBILIDADE/MANTENABILIDADE:<b/>
     <ol>
         <li>
             Variáveis com nomes genéricos
