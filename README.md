@@ -7,8 +7,8 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 <img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="100%" />
 
 ## Numeração do Código
-![Funcionalidades](relatorio2.png)
-![Funcionalidades](relatorio.png)
+<img src="relatorio2.png" alt="Relatório" width="80%" align="center" />
+<img src="relatorio.png" alt="Relatório" width="80%" align="center" />
 
 ## Cálculo de Complexidade Ciclomática
 
