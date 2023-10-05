@@ -4,7 +4,7 @@
 O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, realizando o teste de caixa branca e indicando problemas.
 
 ## Grafo de Fluxo
-<img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="100%" />
+<img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="65%" />
 
 ## Numeração do Código
 <img src="relatorio2.png" alt="Relatório" width="65%" />
