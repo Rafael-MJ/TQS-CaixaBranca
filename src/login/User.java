@@ -8,13 +8,17 @@ import java.sql.Statement;
 public class User {
     public Connection conectarBD() {
         Connection conn = null;
+
+        //8
         try {
             Class.forName("com.mysql.Driver.Manager").newInstance();
             String url = "jdbc:mysql://127.0.0.1/test?user=lopes&password=123";
             conn = DriverManager.getConnection(url);
 
-        //6
+        //9
         }catch  (Exception e) { }
+
+        //10
         return conn;}
 
     //1
