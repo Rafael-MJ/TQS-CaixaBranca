@@ -14,7 +14,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 <b>E: Arestas, N: Nós<br>
 V(G) = E – N + 2</b>
 
-V(G) = 7 - 7 + 2
+V(G) = 7 - 7 + 2<br>
 V(G) = 2
 
 <b>O resultado da Complexidade Ciclomática no código é 2</b>
