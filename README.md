@@ -3,11 +3,10 @@
 ## Descrição
 O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, realizando o teste de caixa branca e indicando problemas.
 
-## Relatório
-![Funcionalidades](relatorio.png)
-
 ## Grafo de Fluxo
 <img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="100%" />
+
+![Funcionalidades](relatorio.png)
 
 ## Cálculo de Complexidade Ciclomática
 
