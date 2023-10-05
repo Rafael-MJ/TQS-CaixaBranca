@@ -1,4 +1,4 @@
-# Exercício individual - Teste de Caixa Branca (ETAPA 1)
+# Exercício individual - Teste de Caixa Branca (ETAPA 2)
 
 ## Descrição
 O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, realizando o teste de caixa branca e indicando problemas.
@@ -51,7 +51,10 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
         </li>
     </ol>
 
+##Grafo de Fluxo
+![Grafo de Fluxo](grafo_de_fluxo.png)
+
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
 
-## Última atualização 28/09/23
+## Última atualização 04/10/23
