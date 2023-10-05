@@ -54,6 +54,16 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 ## Grafo de Fluxo
 <img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="100%" />
 
+## Cálculo de Complexidade Ciclomática
+
+<b>E: Arestas, N: Nós<br>
+V(G) = E – N + 2</b>
+
+<i>V(G) = 7 - 7 + 2<br>
+V(G) = 2</i>
+
+<b>O resultado da Complexidade Ciclomática no código é 2</b>
+
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
 
