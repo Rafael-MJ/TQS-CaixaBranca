@@ -20,7 +20,7 @@ V(G) = 2
 
 <b>O resultado da Complexidade Ciclomática é 2</b>
 
-## Caminhos Independentes
+## Caminhos
 
 <b>[1-2-3-8-9]<br>
 [1-2-3-8-10-4-5-7]<br>
