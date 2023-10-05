@@ -6,6 +6,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 ## Grafo de Fluxo
 <img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="100%" />
 
+## Numeração do Código
 ![Funcionalidades](relatorio.png)
 
 ## Cálculo de Complexidade Ciclomática
