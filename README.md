@@ -19,6 +19,18 @@ V(G) = 2
 
 <b>O resultado da Complexidade Ciclomática é 2</b>
 
+## Caminhos
+
+<b>[1]<br>
+1-2-3-4-5</b>
+
+<b>[2]<br>
+1-2-3-4-7</b>
+
+<b>[Erros]<br>
+1-2-3-6<br>
+1-2-3-4-6</b>
+
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
 
