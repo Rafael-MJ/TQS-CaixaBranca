@@ -4,7 +4,7 @@
 O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, realizando o teste de caixa branca e indicando problemas.
 
 ## Grafo de Fluxo
-<img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="100%" />
+<img src="grafo.png" alt="Grafo de Fluxo" width="100%" />
 
 ## Numeração do Código
 ![Funcionalidades](relatorio.png)
@@ -19,17 +19,12 @@ V(G) = 2
 
 <b>O resultado da Complexidade Ciclomática é 2</b>
 
-## Caminhos
+## Caminhos Independentes
 
-<b>[1]<br>
-1-2-3-4-5</b>
-
-<b>[2]<br>
-1-2-3-4-7</b>
-
-<b>[Exceptions]<br>
-1-2-3-6<br>
-1-2-3-4-6</b>
+<b>[1-2-3-4-5-7]<br>
+[1-2-3-6]<br>
+[1-2-3-4-6]<br>
+</b>
 
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
