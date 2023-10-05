@@ -52,7 +52,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
     </ol>
 
 ##Grafo de Fluxo
-<img src="grafo_de_fluxo.png" alt="Grafo de Fluxo" width="200" />
+<img src="grafo_de_fluxo.png" alt="Grafo de Fluxo" width="600" />
 
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
