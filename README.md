@@ -1,10 +1,10 @@
 # Exercício individual - Teste de Caixa Branca (ETAPA 2)
 
 ## Descrição
-O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, realizando o teste de caixa branca e indicando problemas.
+O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, criando um Grafo de Fluxo e definindo suas propriedades.
 
 ## Grafo de Fluxo
-<img src="grafo_fluxo.png" alt="Grafo de Fluxo" width="65%" />
+<img src="grafo.png" alt="Grafo de Fluxo" width="65%" />
 
 ## Numeração do Código
 <img src="relatorio2.png" alt="Relatório" width="65%" />
