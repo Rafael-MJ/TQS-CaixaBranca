@@ -3,7 +3,13 @@
 ## Descrição
 O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para colocar em prova o conhecimento em testes de software, elaborando toda sua a documentação.
 
-## Exemplo de Documentação
+## Exemplos de Documentação
+
+![Anotação](n1.png)
+
+![Anotação](n2.png)
+
+![Anotação](n3.png)
 
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
