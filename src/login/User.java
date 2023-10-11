@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author Daniel Ohata
+ * @author Daniel Ohata.
  *
  * Classe contém métodos de conexão com MySQL DB e verificação de usuário.
  */
@@ -26,14 +26,14 @@ public class User {
         Connection conn = null;
 
         try {
-            //Tentativa de conexão com o driver JDBC.
+            // Tentativa de conexão com o driver JDBC.
             Class.forName("com.mysql.Driver.Manager").newInstance();
 
-            //Tentativa de conexão com o banco de dados a partir do driver.
+            // Tentativa de conexão com o banco de dados a partir do driver.
             String url = "jdbc:mysql://127.0.0.1/test?user=lopes&password=123";
             conn = DriverManager.getConnection(url);
         }catch  (Exception e) {
-            //Bloco de tratamento de excessão
+            // Bloco de tratamento de excessão.
         }
         return conn;}
 
@@ -64,22 +64,22 @@ public class User {
         String sql = "";
         Connection conn = conectarBD();
 
-        //Instruções para consulta SQL.
+        // Instruções para consulta SQL.
         sql += "select nome from usuarios ";
         sql +="where login = " + "'" + login + "'";
         sql += " and senha = " + "'" + senha + "';";
 
         try{
-            //Tentativa da realização de consulta no banco de dados.
+            // Tentativa da realização de consulta no banco de dados.
             Statement st = conn.createStatement();
             ResultSet rs = st.executeQuery(sql);
 
-            //Verificação das informações retornadas pelo banco de dados.
+            // Verificação das informações retornadas pelo banco de dados.
             if (rs.next()) {
                 result = true;
                 nome = rs.getString("nome");}
         }catch (Exception e) {
-            //Bloco de tratamento de excessão.
+            // Bloco de tratamento de excessão.
         }
         return result; }
-} //Fechamento da classe User.
+} // Fechamento da classe User.
