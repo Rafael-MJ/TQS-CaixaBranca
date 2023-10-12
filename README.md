@@ -14,4 +14,4 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 ## Publicação
 https://github.com/Rafael-MJ/TesteCaixaBranca
 
-## Última atualização 06/10/23
+## Última atualização 11/10/23
